@@ -1,7 +1,7 @@
 name: Miguel Ángel Aijón
 favicon: null
-layout_spectrum: 0.46261918963864446
-typography_spectrum: 0.1893388496246189
+layout_spectrum: 0.2677
+typography_spectrum: 0.28944
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.7662001920398325
-  lightness: 0.4501309683546424
-  saturation: 0.856695135589689
-  rhythmicContrast: 0.23467894596979022
+  brandStrength: 0.25
+  lightness: 0.5
+  saturation: 0.375
+  rhythmicContrast: 0.75
 purpose: []
